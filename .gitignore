@@ -1,0 +1,6 @@
+# داده واقعی
+*.xlsx
+*.xls
+__pycache__/
+*.pyc
+*.bat
